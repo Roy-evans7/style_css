@@ -1,0 +1,36 @@
+h1{
+    color: azure;
+}
+#para1{
+    color:aqua;
+    background-color: aqua;
+    background-image: (url/https://github.blog/wp-content/uploads/2023/02/3-compliance-post.png?resize=1200%2C640)
+
+
+    background-position: right;
+    /*{background-attachment:scroll*/
+    border-radius: 20pk;
+    border-top-style: dotted;
+    border-bottom-style:double;
+    border-left-style: solid;
+
+}
+
+
+#para2{
+    border-style:solid;
+    border-color:aqua;
+    color:blue;
+}
+
+.one{
+    font-style: italic;
+    font-size: 10px;
+    color:blanchedalmond
+}
+
+
+
+
+
+    
